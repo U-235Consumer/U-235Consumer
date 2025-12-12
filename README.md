@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌑 Lua / Luau Developer (5+ years experience)<br>🛠️ C# Developer<br>🦠 ROBLOX exploit developer
+🌑 Lua / Luau Developer (5+ years experience)<br>🐍 Python Developer<br>🛠️ C# Developer
 
 
 ## 🌐 Socials:
