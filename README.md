@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌑 Lua / Luau Developer (5+ years experience)<br>🐍 Python Developer<br>🛠️ C# Developer
+🌑 Lua / Luau Developer (5+ years experience)<br>🐍 Python Developer<br>🛠️ C#, C++ Developer
 
 
 ## 🌐 Socials:
